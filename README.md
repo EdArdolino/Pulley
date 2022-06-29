@@ -6,7 +6,7 @@ Useage: Pulley is a good program to use when working while on the go. For instan
 
 How to use:
 1. Clone the Pulley repo: `git clone`
-
+2. To be updated
 
 
 

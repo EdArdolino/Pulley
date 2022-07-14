@@ -6,8 +6,9 @@ Useage: Pulley is a good program to use when working while on the go. For instan
 
 How to use:
 1. Clone the Pulley repo: `git clone`
-2. To be updated
+2. Select an option from the promp: `Pull existing repos` or `Add a repo` 
+3. To be updated
 
 
 
-Note: This is a work in progress, this repo is a shell for what will be Pulley
+Note: This is a work in progress, and may not be updated frequently, thank you for your understanding
